@@ -1,0 +1,7 @@
+{
+    "rewrites": [
+      { "source": "/compraconcluida", "destination": "/compraconcluida.html" },
+      { "source": "/(.*)", "destination": "/$1" }
+    ]
+  }
+  
